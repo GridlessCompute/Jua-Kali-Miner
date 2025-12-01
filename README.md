@@ -1,2 +1,4 @@
-# Jua-Kali
-Jua Kali Master Repo
+# Jua-Kali-Miner
+
+[Code](Code)
+[Hardware](Hardware)
