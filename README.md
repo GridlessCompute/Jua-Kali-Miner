@@ -17,11 +17,11 @@ The Jua Kali Miner was born from the vision of enabling Bitcoin mining in unconv
 
 This repository is organized into two main sections:
 
-- [**Hardware**](./Hardware/): Contains all the information related to the physical components of the Jua Kali Miner. This includes:
+- **Hardware**: Contains all the information related to the physical components of the Jua Kali Miner. This includes:
   - Wiring diagrams
   - Bill of Materials (BOM)
   - Assembly instructions
-- [**Code**](./Code/): Contains the source code for the software that runs the Jua Kali Miner. This includes:
+- **Code**: Contains the source code for the software that runs the Jua Kali Miner. This includes:
   - Arduino firmware for sensor readings
   - Go services for data processing and control
   - A React-based web interface for monitoring
@@ -30,9 +30,9 @@ This repository is organized into two main sections:
 
 To build your own Jua Kali Miner, you will need to assemble the hardware and set up the software.
 
-1.  **Hardware Assembly:** Start by visiting the [Hardware](./Hardware/) directory for detailed instructions on the necessary components and how to assemble them.
+1.  **Hardware Assembly:** Start by visiting the Hardware directory for detailed instructions on the necessary components and how to assemble them.
 
-2.  **Software Setup:** Once the hardware is assembled, head over to the [Code](./Code/) directory for instructions on how to set up the software on your Raspberry Pi and Arduino.
+2.  **Software Setup:** Once the hardware is assembled, head over to the Code directory for instructions on how to set up the software on your Raspberry Pi and Arduino.
 
 ## Contributing
 
@@ -41,4 +41,3 @@ We welcome contributions from the community! If you are interested in improving 
 ## License
 
 The Jua Kali Miner project is licensed under the [GNU General Public License v3.0](./LICENSE).
-
