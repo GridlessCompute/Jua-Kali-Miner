@@ -15,6 +15,8 @@ The Jua Kali Miner was born from the vision of enabling Bitcoin mining in unconv
 
 ## Project Structure
 
+NOTE: This repository is structured as a directory of other submodule repositories. Mileage may vary when trying to download this specific repository as a zip.
+
 This repository is organized into two main sections:
 
 - **Hardware**: Contains all the information related to the physical components of the Jua Kali Miner. This includes:
