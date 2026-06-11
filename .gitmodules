@@ -1,6 +1,6 @@
 [submodule "Code"]
 	path = Code
-	url = git@github.com:GridlessCompute/Jua-Kali-Code.git
+	url = https://github.com/GridlessCompute/Jua-Kali-Code.git
 [submodule "Hardware"]
 	path = Hardware
-	url = git@github.com:GridlessCompute/Jua-Kali-Hardware.git
+	url = https://github.com/GridlessCompute/Jua-Kali-Hardware.git
